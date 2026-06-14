@@ -212,7 +212,7 @@ Through these projects, the following concepts were implemented:
 
 # 👨‍💻 Author
 
-## Kashan
+## IZAAN WITH THE HELP OF KASHAN
 
 Artificial Neural Network (ANN) Assignment
 
